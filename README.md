@@ -4,6 +4,9 @@
 ## Project Overview
 This project analyzes pizza sales data to uncover insights into customer preferences, sales patterns, and revenue. Using SQL for querying and Excel for visualization, I explored trends by time, pizza type, and demographics, providing actionable insights to enhance inventory planning, promotions, and sales strategies.
 
+![Dashboard Image](https://github.com/user-attachments/assets/119fa30c-131b-495f-8054-7f0095f92c61)
+
+
 ### Data Sources
 sales data : The Primary Dataset used for this analysis is " pizza_sales" file containing detailed information about the pizza sales 
 
@@ -31,6 +34,7 @@ This project showcases effective data analysis with SQL and Excel, turning raw d
 -Introduce targeted promotions based on high-demand pizza types.
 -Optimize inventory by focusing on peak sales times and popular items.
 -Consider customer feedback to refine menu offerings and improve satisfaction.
+
 
  
 
